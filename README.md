@@ -1,4 +1,4 @@
-# PIX & Payment Analytics
+# Análise de Pix e outros Meios de Pagamentos no Brasil
 
 Projeto de Engenharia de Dados utilizando Databricks, PySpark, Delta Lake e Power BI para ingestão, tratamento e análise de dados públicos do Banco Central do Brasil relacionados às transações PIX e meios de pagamento.
 
